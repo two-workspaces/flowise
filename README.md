@@ -31,7 +31,7 @@ Credentials are encrypted with `FLOWISE_SECRETKEY_OVERWRITE`, generated once and
 
 ### Deployment Dependencies
 
-- [Flowise docs: running in queue mode](https://docs.flowiseai.com/configuration/running-in-queue-mode)
+- [Flowise docs: running in queue mode](https://docs.flowiseai.com/configuration/running-flowise-using-queue)
 - [Flowise environment variables](https://docs.flowiseai.com/configuration/environment-variables)
 - [Flowise on GitHub](https://github.com/FlowiseAI/Flowise)
 
